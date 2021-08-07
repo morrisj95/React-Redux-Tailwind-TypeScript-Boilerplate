@@ -1,12 +1,8 @@
 # React-Redux-Tailwind-Typescript Boilerplate
 
----
-
 Reusable Front-End Repo for easy setup on my projects
 
 ## Features:
-
---
 
 - Fully TypeScript-First Setup
 - Client-Side State Management via Redux
@@ -16,8 +12,6 @@ Reusable Front-End Repo for easy setup on my projects
 - Easy HMR for both the application and for testing
 
 ## Using:
-
----
 
 ### Development
 
@@ -39,8 +33,7 @@ Reusable Front-End Repo for easy setup on my projects
 
 ## TODO:
 
----
-
 - Root Directory configuration (non-relative imports)
 - Make a `dummyReducer` and import/combine it for easy swap-out of reducers
 - Should we move component tests to a dedicated dir?
+- Better .gitignore
